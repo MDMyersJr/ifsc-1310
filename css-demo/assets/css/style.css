@@ -1,0 +1,21 @@
+ /* ----------------Box Sizing-------------- */
+
+ html{
+    box-sizing: border-box;
+ }
+ *,
+ *:before,
+ *:after {
+    box-sizing: inherit;
+ }
+
+ /*----------------Global Styles------------ */
+
+ body{
+    font-family: 'Roboto', sans-serif;
+ }
+
+header.primary{
+    font-family: 'Alkalami', serif;
+    background-color:#65C3AF;
+ }
