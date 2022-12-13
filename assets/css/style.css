@@ -1,4 +1,11 @@
+.container{
+    max-width:900px;
+    width:80vw;
+    margin: 40px auto;
+ }
+
 body{
+    background-color: #09ebd1;
     font-family: 'Roboto', sans-serif;
     margin: 0;
  }
@@ -9,4 +16,9 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 text-align: center;
 color: #ffffff;
 text-shadow: 2px 2px #000000;
+}
+
+h3{
+    color: #ffffff;
+    text-shadow: 2px 2px #000000;
 }
